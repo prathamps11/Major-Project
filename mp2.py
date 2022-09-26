@@ -1,3 +1,5 @@
+#Color detection through Webcam using OpenCV
+
 import cv2
 
 cap = cv2.VideoCapture(0)#0 reserves the default web cam port and 1 for pc or external cam
